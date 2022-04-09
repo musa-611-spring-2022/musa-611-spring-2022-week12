@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.map {
+  height: 300px;
+}
+
+.filters {
+  padding: 1rem;
+}
+
+.neighbors > ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.neighbors li {
+  padding: 0.5rem 0;
+  border-top: 1px solid silver;
+}
