@@ -9,7 +9,8 @@ L.tileLayer('https://api.mapbox.com/styles/v1/mjumbe-test/cl0r2nu2q000s14q9vfkkd
 const precinctInput = document.querySelector('#precinct-filter');
 const recencyInput = document.querySelector('#recency-filter');
 const partySelect = document.querySelector('#party-filter');
-const filterCountSpan = document.querySelector('#filter-count');
+const filteredCountSpan = document.querySelector('#filtered-count');
+const filteredPrecinctSpan = document.querySelector('#filtered-precinct');
 const neighborList = document.querySelector('.neighbors ul');
 
 let neighborMarkers = {};
@@ -88,7 +89,7 @@ const updateNeighborList = function(data) {
     neighborList.appendChild(neighborListItem);
   });
 
-  filterCountSpan.innerHTML = data.length;
+  filteredCountSpan.innerHTML = data.length;
 }
 
 const filterNeighborsData = function(data) {
@@ -129,6 +130,7 @@ const showPrecinct = function (precinct) {
       neighborsData = data;
 
       initNeighborListItems(neighborsData);
+      filteredPrecinctSpan.innerHTML = precinct;
       neighborMarkerGroup.clearLayers();
       const filteredData = filterNeighborsData(neighborsData);
       updateNeighborList(filteredData);
