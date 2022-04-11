@@ -11,6 +11,13 @@ body {
   padding: 1rem;
 }
 
+.filter-summary {
+  text-align: center;
+  padding-top: 1rem;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
 .neighbors > ul {
   list-style: none;
   padding: 1rem;
