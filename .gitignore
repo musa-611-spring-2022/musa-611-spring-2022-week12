@@ -1,3 +1,8 @@
 *.pyc
 poetry.lock
 node_modules/
+
+canvass/data/**/*.txt
+canvass/data/**/*.doc
+canvass/data/**/*.json
+canvass/data/**/*.csv

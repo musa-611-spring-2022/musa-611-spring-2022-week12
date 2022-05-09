@@ -1,0 +1,5978 @@
+[
+ {
+  "Street Address": "1112 MIFFLIN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "MALONE",
+    "First Name": "JESSICA",
+    "Middle Name": "LYNN",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "SUMMERS",
+    "First Name": "COREY",
+    "Middle Name": "ALAN",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "1112 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16435,
+  "Latitude": 39.926186
+ },
+ {
+  "Street Address": "908 MIFFLIN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "WHITE",
+    "First Name": "JEREMY",
+    "Middle Name": "LYLE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "908 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161,
+  "Latitude": 39.925743
+ },
+ {
+  "Street Address": "1902 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "OUELLETTE",
+    "First Name": "AMY",
+    "Middle Name": "ELIZABETH",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1902 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16293,
+  "Latitude": 39.925873
+ },
+ {
+  "Street Address": "1924 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "CALLAHAN",
+    "First Name": "MARY",
+    "Middle Name": "BRIGHID",
+    "Apartment Number": "2",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "AQUILA",
+    "First Name": "ROSALYN",
+    "Middle Name": "E",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "926 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "SEVERINO",
+    "First Name": "JOSEPH",
+    "Middle Name": "CHRISTIAN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "926 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16134,
+  "Latitude": 39.925354
+ },
+ {
+  "Street Address": "1907 S WARNOCK ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "MALIN",
+    "First Name": "STEPHANIE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1907 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16338,
+  "Latitude": 39.925896
+ },
+ {
+  "Street Address": "912 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "REYES",
+    "First Name": "SAHILY",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "RIVERA MILIAN",
+    "First Name": "FRANCISCO",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "912 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16124,
+  "Latitude": 39.924957
+ },
+ {
+  "Street Address": "913 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "REPICE",
+    "First Name": "JULIANA",
+    "Middle Name": "PAULINE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "913 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16115,
+  "Latitude": 39.92534
+ },
+ {
+  "Street Address": "1935 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "TATAKIS",
+    "First Name": "NICHOLAS",
+    "Middle Name": "ANTHONY",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "SCHLESINGER",
+    "First Name": "JACKSON",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1935 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.164,
+  "Latitude": 39.92567
+ },
+ {
+  "Street Address": "1917 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "HALPERN",
+    "First Name": "ADEN",
+    "Middle Name": "MARCU",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1936 S WARNOCK ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "LESTER",
+    "First Name": "KATHRYN",
+    "Middle Name": "LEIGH",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1936 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16347,
+  "Latitude": 39.92558
+ },
+ {
+  "Street Address": "1940 S 9TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "HERNANDEZ",
+    "First Name": "ALEXIS",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1940 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16097,
+  "Latitude": 39.92484
+ },
+ {
+  "Street Address": "904 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "RICH",
+    "First Name": "KELSEY",
+    "Middle Name": "ELEANOR",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "GUGLIELMO",
+    "First Name": "NICHOLAS",
+    "Middle Name": "SANTINO",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "904 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16105,
+  "Latitude": 39.925316
+ },
+ {
+  "Street Address": "1910 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "COLLINS",
+    "First Name": "LAURA",
+    "Middle Name": "",
+    "Apartment Number": "#1",
+    "Parsed Last Vote Date": "2016-11-08"
+   },
+   {
+    "Last Name": "KADER",
+    "First Name": "SAKINA",
+    "Middle Name": "",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "924 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "KIRCANSKI",
+    "First Name": "KRISTA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "924 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161316,
+  "Latitude": 39.92535
+ },
+ {
+  "Street Address": "1923 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "FILLETTE",
+    "First Name": "KEVIN",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-11-06"
+   },
+   {
+    "Last Name": "ECKENTHAL",
+    "First Name": "NANCY",
+    "Middle Name": "LYNN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "WEBB",
+    "First Name": "MARGARET",
+    "Middle Name": "SCOTT",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1923 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.162964,
+  "Latitude": 39.92566
+ },
+ {
+  "Street Address": "1928 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "ROBERTS",
+    "First Name": "ASHLEY",
+    "Middle Name": "LAUREN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "TALBOT",
+    "First Name": "JEFFREY",
+    "Middle Name": "F",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1928 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.162994,
+  "Latitude": 39.9256
+ },
+ {
+  "Street Address": "937 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "STRAUB",
+    "First Name": "RICHARD",
+    "Middle Name": "JOHN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "BARTLER",
+    "First Name": "DAVID",
+    "Middle Name": "KARL",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "937 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16218,
+  "Latitude": 39.92465
+ },
+ {
+  "Street Address": "914 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "CRUICE",
+    "First Name": "BRIAN",
+    "Middle Name": "PATRICK",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "914 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16126,
+  "Latitude": 39.92496
+ },
+ {
+  "Street Address": "925 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "WHEBLE",
+    "First Name": "ABIGAIL",
+    "Middle Name": "BURKE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "YOUNG",
+    "First Name": "JOHN",
+    "Middle Name": "MACKALL",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "925 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16131,
+  "Latitude": 39.92536
+ },
+ {
+  "Street Address": "911 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "MERRIGAN",
+    "First Name": "JENNIFER",
+    "Middle Name": "ALLISON",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "ALBERS",
+    "First Name": "JACOB",
+    "Middle Name": "RAYMOND",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "911 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16121,
+  "Latitude": 39.924965
+ },
+ {
+  "Street Address": "825 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "TRAM",
+    "First Name": "HONG",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2012-11-06"
+   },
+   {
+    "Last Name": "KUL",
+    "First Name": "KANIN",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "TRAM",
+    "First Name": "NGO",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "BROK",
+    "First Name": "NORN",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "825 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.160225,
+  "Latitude": 39.9244
+ },
+ {
+  "Street Address": "1924 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "SCHWED",
+    "First Name": "JEREMY",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "YANNATOS",
+    "First Name": "ISABEL",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1924 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16299,
+  "Latitude": 39.92564
+ },
+ {
+  "Street Address": "1114 MIFFLIN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "MACIEJESKI",
+    "First Name": "CHARLES",
+    "Middle Name": "ROBERT",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2012-11-06"
+   },
+   {
+    "Last Name": "BUCKLEY",
+    "First Name": "ANTHONY",
+    "Middle Name": "",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "GOLDEN",
+    "First Name": "TALIA",
+    "Middle Name": "",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1114 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16442,
+  "Latitude": 39.926193
+ },
+ {
+  "Street Address": "1918 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "BARLOW",
+    "First Name": "KARISA",
+    "Middle Name": "NICOLE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "BARLOW",
+    "First Name": "DANIEL",
+    "Middle Name": "STEPHEN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "916 MIFFLIN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "CAHILL",
+    "First Name": "ZAINA",
+    "Middle Name": "MARIE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "WATSON",
+    "First Name": "CASEY",
+    "Middle Name": "PHILLIP",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "916 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16111,
+  "Latitude": 39.92576
+ },
+ {
+  "Street Address": "1925 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "JOHNSON",
+    "First Name": "RYAN",
+    "Middle Name": "MICHAEL",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "VESSIO",
+    "First Name": "KRISTIN",
+    "Middle Name": "MARIE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1911 S JESSUP ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "ROSS",
+    "First Name": "KELSEY",
+    "Middle Name": "E",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1911 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.164505,
+  "Latitude": 39.926
+ },
+ {
+  "Street Address": "1912 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "EDWARDS",
+    "First Name": "BRYANT",
+    "Middle Name": "JOHN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "MUROYA",
+    "First Name": "KIMIE",
+    "Middle Name": "EVELYN HERSCHEL",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "FABIYI",
+    "First Name": "ELIANA",
+    "Middle Name": "ABIKE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "JOHNSON",
+    "First Name": "MARGARET",
+    "Middle Name": "MARY",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-06-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1907 S JESSUP ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "ASH",
+    "First Name": "STEPHANIE",
+    "Middle Name": "LAUREN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "SO",
+    "First Name": "CHINHANG",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1907 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16449,
+  "Latitude": 39.92604
+ },
+ {
+  "Street Address": "918 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "WARNER",
+    "First Name": "ERIC",
+    "Middle Name": "H",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "KOPCHINSKI",
+    "First Name": "GARY",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "918 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161316,
+  "Latitude": 39.92497
+ },
+ {
+  "Street Address": "1932 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "DOUB",
+    "First Name": "DIANE",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "DOUB",
+    "First Name": "RANDALL",
+    "Middle Name": "EUGENE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1932 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16402,
+  "Latitude": 39.925694
+ },
+ {
+  "Street Address": "1901 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "RUIZ",
+    "First Name": "JENNIFER",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1901 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16393,
+  "Latitude": 39.926033
+ },
+ {
+  "Street Address": "1914 S 9TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "WEMER",
+    "First Name": "AARON",
+    "Middle Name": "BENJAMIN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "TORONYI",
+    "First Name": "DANIELLE",
+    "Middle Name": "PRISCILLA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1914 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.160866,
+  "Latitude": 39.92533
+ },
+ {
+  "Street Address": "1920 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "WILSON",
+    "First Name": "JILLIAN",
+    "Middle Name": "GLORIA",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "REYNOLDS",
+    "First Name": "BRANDON",
+    "Middle Name": "LEE",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1920 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16246,
+  "Latitude": 39.925385
+ },
+ {
+  "Street Address": "1015 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "URBANI",
+    "First Name": "DOMENIC",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "MASON",
+    "First Name": "BRIDGET",
+    "Middle Name": "KATHLEEN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1015 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16321,
+  "Latitude": 39.92479
+ },
+ {
+  "Street Address": "1926 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "CARLIN",
+    "First Name": "THOMAS",
+    "Middle Name": "D",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "MILLIO",
+    "First Name": "GREGORY",
+    "Middle Name": "JOSEPH",
+    "Apartment Number": "2",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1926 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.164,
+  "Latitude": 39.92576
+ },
+ {
+  "Street Address": "1023 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "HAGAN",
+    "First Name": "KRISTOPHER",
+    "Middle Name": "P",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "MERVIS",
+    "First Name": "JOSHUA",
+    "Middle Name": "EZRA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "SAMBOL",
+    "First Name": "DREW",
+    "Middle Name": "ALEXANDRA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1023 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16369,
+  "Latitude": 39.924854
+ },
+ {
+  "Street Address": "841 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "LAPINA",
+    "First Name": "LISA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "841 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.160545,
+  "Latitude": 39.924442
+ },
+ {
+  "Street Address": "1938 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "PAK",
+    "First Name": "JUNTAE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "PAK",
+    "First Name": "WANDA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "PAK",
+    "First Name": "BRIAN",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1938 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16254,
+  "Latitude": 39.925068
+ },
+ {
+  "Street Address": "835 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "GRIFFITHS",
+    "First Name": "SAMUEL",
+    "Middle Name": "DAVIES",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "SIROLLI",
+    "First Name": "CHRISTINA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1921 S WARNOCK ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "LEVY",
+    "First Name": "DANIEL",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "OROURKE",
+    "First Name": "MEGHAN",
+    "Middle Name": "COLLEEN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1921 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.163414,
+  "Latitude": 39.925747
+ },
+ {
+  "Street Address": "908 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "SWEENY",
+    "First Name": "ANNA",
+    "Middle Name": "MAUREEN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "MOSKOWITZ",
+    "First Name": "MARGO",
+    "Middle Name": "SHEA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "TILLEY",
+    "First Name": "BENJAMIN",
+    "Middle Name": "COWEN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "908 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16119,
+  "Latitude": 39.92495
+ },
+ {
+  "Street Address": "1939 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "RINALDI",
+    "First Name": "KERRI",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "RINALDI",
+    "First Name": "ANDREW",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1939 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16401,
+  "Latitude": 39.92563
+ },
+ {
+  "Street Address": "929 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "SMITH",
+    "First Name": "MARIN",
+    "Middle Name": "NICOLE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "SMITH",
+    "First Name": "SEAN",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "929 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16136,
+  "Latitude": 39.92537
+ },
+ {
+  "Street Address": "936 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "AVERY",
+    "First Name": "JAMES",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "936 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161476,
+  "Latitude": 39.925373
+ },
+ {
+  "Street Address": "837 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "FAREZ",
+    "First Name": "YENI",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "837 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16052,
+  "Latitude": 39.92444
+ },
+ {
+  "Street Address": "811 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "GOTTLIEB",
+    "First Name": "JULIA",
+    "Middle Name": "MAE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "WEGA",
+    "First Name": "MARIEL",
+    "Middle Name": "CHRISTINE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "KORWIN",
+    "First Name": "LINDSAY",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "KEKEVIAN",
+    "First Name": "WILLIAM",
+    "Middle Name": "ELIA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "811 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15983,
+  "Latitude": 39.92435
+ },
+ {
+  "Street Address": "927 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "RISKO BRANNON",
+    "First Name": "ERIKA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "BRANNON",
+    "First Name": "NICHOLAS",
+    "Middle Name": "JAMES",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "927 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16142,
+  "Latitude": 39.92499
+ },
+ {
+  "Street Address": "1903 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "CHUA",
+    "First Name": "THELMA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "CHUA",
+    "First Name": "MARK",
+    "Middle Name": "PHILIP",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "CHUA",
+    "First Name": "ARIANNA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1914 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "PICCIRILLI",
+    "First Name": "ERIC",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "PICCIRILLI",
+    "First Name": "CHRISTIAN",
+    "Middle Name": "JOSEPH",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "906 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "GORDON",
+    "First Name": "IRENE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "906 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161156,
+  "Latitude": 39.924946
+ },
+ {
+  "Street Address": "1936 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "ALFONSI",
+    "First Name": "MARIE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1936 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16301,
+  "Latitude": 39.925514
+ },
+ {
+  "Street Address": "1921 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "REPICE",
+    "First Name": "DOMENIC",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1909 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "SCULLY",
+    "First Name": "ANDREW",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "HORST",
+    "First Name": "MICHELLE",
+    "Middle Name": "ANN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1909 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.1624,
+  "Latitude": 39.92561
+ },
+ {
+  "Street Address": "1905 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "TRBOVICH",
+    "First Name": "JESSE",
+    "Middle Name": "RYAN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1905 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16237,
+  "Latitude": 39.925747
+ },
+ {
+  "Street Address": "1946 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "VEITH",
+    "First Name": "MARGARET",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "VEITH",
+    "First Name": "KENNETH",
+    "Middle Name": "W",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1919 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "GLENDENING",
+    "First Name": "JOHN",
+    "Middle Name": "H",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1919 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16296,
+  "Latitude": 39.9257
+ },
+ {
+  "Street Address": "1022 MIFFLIN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "NEWALL",
+    "First Name": "JACLYN ANN",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "NEWALL",
+    "First Name": "MICHAEL",
+    "Middle Name": "G",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1022 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16325,
+  "Latitude": 39.926037
+ },
+ {
+  "Street Address": "1941 S 9TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "BIANCHINI",
+    "First Name": "ARNOLD",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1941 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16096,
+  "Latitude": 39.924847
+ },
+ {
+  "Street Address": "1003 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "WAGNER",
+    "First Name": "RICHARD",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "WAGNER",
+    "First Name": "JOHN",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1003 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.162895,
+  "Latitude": 39.924747
+ },
+ {
+  "Street Address": "923 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "PALMER",
+    "First Name": "CHARLES",
+    "Middle Name": "W",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "923 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16197,
+  "Latitude": 39.92462
+ },
+ {
+  "Street Address": "1942 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "PENNESTRI",
+    "First Name": "THERESA",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "PENNESTRI",
+    "First Name": "ROBERT",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1948 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "DIGIROLAMO",
+    "First Name": "THERESA",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "DIGIROLAMO",
+    "First Name": "CAROL",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1028 MIFFLIN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "BALDWIN",
+    "First Name": "ADAM",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "BALDWIN",
+    "First Name": "CAITLIN",
+    "Middle Name": "ELIZABETH",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "BARKER",
+    "First Name": "CHRISTOPHER",
+    "Middle Name": "HUGHES",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1028 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.163414,
+  "Latitude": 39.92606
+ },
+ {
+  "Street Address": "1941 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "ROSENTHAL",
+    "First Name": "SCOTT",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "DOHERTY",
+    "First Name": "CONOR",
+    "Middle Name": "KENNEDY",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "WERTZ",
+    "First Name": "KATHRYN",
+    "Middle Name": "",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1940 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "WAXMAN",
+    "First Name": "SUSAN",
+    "Middle Name": "L S",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "WAXMAN",
+    "First Name": "SAMUEL",
+    "Middle Name": "JONATHAN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "1940 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16254,
+  "Latitude": 39.925056
+ },
+ {
+  "Street Address": "1936 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "CORNAGLIA",
+    "First Name": "PRISCILLA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "CORNAGLIA",
+    "First Name": "KATHLEEN",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1026 MIFFLIN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "EHRICH",
+    "First Name": "ANN",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1026 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1634,
+  "Latitude": 39.926056
+ },
+ {
+  "Street Address": "1913 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "WILLIAMS",
+    "First Name": "KATHLEEN",
+    "Middle Name": "E",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "FOLTZ",
+    "First Name": "BRANDON",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1913 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16294,
+  "Latitude": 39.925766
+ },
+ {
+  "Street Address": "1904 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "KRAUSE",
+    "First Name": "ANDREW",
+    "Middle Name": "JAMES",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "MORGAN",
+    "First Name": "AMANDA",
+    "Middle Name": "",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "SATTERLY",
+    "First Name": "CECELIA",
+    "Middle Name": "KATHRYNE",
+    "Apartment Number": "2",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "NOCITO",
+    "First Name": "ALEXIS",
+    "Middle Name": "",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "LAPENTA",
+    "First Name": "ROBERT",
+    "Middle Name": "LEWIS",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1904 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16238,
+  "Latitude": 39.925774
+ },
+ {
+  "Street Address": "1921 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "MCCARTY",
+    "First Name": "BRIAN",
+    "Middle Name": "E",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "MCCARTY",
+    "First Name": "FAITH",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1921 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16397,
+  "Latitude": 39.92582
+ },
+ {
+  "Street Address": "903 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "RUSSO",
+    "First Name": "NORMA",
+    "Middle Name": "T",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "903 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16119,
+  "Latitude": 39.92453
+ },
+ {
+  "Street Address": "910 MIFFLIN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "SMITH",
+    "First Name": "WILLIAM",
+    "Middle Name": "R",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "SMITH",
+    "First Name": "GLORIA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "910 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161026,
+  "Latitude": 39.925747
+ },
+ {
+  "Street Address": "920 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "LOK",
+    "First Name": "XUE XIANG",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "920 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16126,
+  "Latitude": 39.925343
+ },
+ {
+  "Street Address": "1906 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "GARSIDE",
+    "First Name": "TIMOTHY",
+    "Middle Name": "R",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "BASSETT",
+    "First Name": "LINDSAY",
+    "Middle Name": "EILEEN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1906 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16294,
+  "Latitude": 39.92583
+ },
+ {
+  "Street Address": "1921 S JESSUP ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "RAGGIO",
+    "First Name": "ROSEANN",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1921 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16453,
+  "Latitude": 39.92589
+ },
+ {
+  "Street Address": "1906 S WARNOCK ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "MASCIO",
+    "First Name": "FRANK",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1906 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.1634,
+  "Latitude": 39.925896
+ },
+ {
+  "Street Address": "1916 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "GEORGE",
+    "First Name": "SCOTT",
+    "Middle Name": "EUGENELEE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "MC NEAL",
+    "First Name": "KEVIN",
+    "Middle Name": "JOHN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1916 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16398,
+  "Latitude": 39.925865
+ },
+ {
+  "Street Address": "1938 S WARNOCK ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "CLAY",
+    "First Name": "ELLEN",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-04-26"
+   },
+   {
+    "Last Name": "DEMATTIA",
+    "First Name": "BIANCA",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1938 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.163475,
+  "Latitude": 39.925556
+ },
+ {
+  "Street Address": "1934 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "SMITH",
+    "First Name": "MEGAN",
+    "Middle Name": "THERESA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "DUNBAR",
+    "First Name": "ERICA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "DUNBAR",
+    "First Name": "HEATHER",
+    "Middle Name": "E",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-11-06"
+   }
+  ],
+  "Matched Address": "1934 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16301,
+  "Latitude": 39.925533
+ },
+ {
+  "Street Address": "919 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "LAMORGIA",
+    "First Name": "ANTHONY",
+    "Middle Name": "D",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "LAMORGIA",
+    "First Name": "DANA",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "LAMORGIA",
+    "First Name": "ALBERT",
+    "Middle Name": "CARMEN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "919 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161316,
+  "Latitude": 39.924976
+ },
+ {
+  "Street Address": "1935 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "VALDES",
+    "First Name": "LESLEY",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1935 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.162994,
+  "Latitude": 39.925533
+ },
+ {
+  "Street Address": "1923 S JESSUP ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "MUSUMECI",
+    "First Name": "MARK",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-05-15"
+   },
+   {
+    "Last Name": "SCULLY",
+    "First Name": "THOMAS",
+    "Middle Name": "PETER",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1923 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.164536,
+  "Latitude": 39.925873
+ },
+ {
+  "Street Address": "1907 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "LAWSON",
+    "First Name": "GEORGE",
+    "Middle Name": "P",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-11-06"
+   },
+   {
+    "Last Name": "HELLER",
+    "First Name": "REGINA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-11-06"
+   },
+   {
+    "Last Name": "MALAMUT",
+    "First Name": "AMANDA",
+    "Middle Name": "MARY",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "GUINAN",
+    "First Name": "MARY KATHERINE",
+    "Middle Name": "SULLIVAN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "HELLER",
+    "First Name": "ALYSSA",
+    "Middle Name": "NICOLE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "1907 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.162926,
+  "Latitude": 39.92583
+ },
+ {
+  "Street Address": "1024 MIFFLIN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "CORRIGAN",
+    "First Name": "ROSEANN",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "WRIGHT",
+    "First Name": "ROBERT",
+    "Middle Name": "SILAS ROLAND",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1024 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16333,
+  "Latitude": 39.92605
+ },
+ {
+  "Street Address": "1923 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "WEINKRANTZ",
+    "First Name": "DAMIAN",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1923 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16398,
+  "Latitude": 39.9258
+ },
+ {
+  "Street Address": "924 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "GIRGENTI",
+    "First Name": "NICHOLE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "924 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1614,
+  "Latitude": 39.924976
+ },
+ {
+  "Street Address": "1920 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "OTTO",
+    "First Name": "FRANCES",
+    "Middle Name": "D",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1920 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16399,
+  "Latitude": 39.925823
+ },
+ {
+  "Street Address": "1938 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "JABLOW",
+    "First Name": "CHARLENE",
+    "Middle Name": "R",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "PTASHKIN",
+    "First Name": "STEVEN",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1938 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16302,
+  "Latitude": 39.92549
+ },
+ {
+  "Street Address": "917 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "MAIORANA",
+    "First Name": "PATRICIA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "MAIORANA",
+    "First Name": "MATTEO",
+    "Middle Name": "D",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "MAIORANA",
+    "First Name": "ANTHONY",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "917 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1612,
+  "Latitude": 39.925346
+ },
+ {
+  "Street Address": "1008 MIFFLIN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "CARTO",
+    "First Name": "LUCY",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "CARTO",
+    "First Name": "JOHN",
+    "Middle Name": "S",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "CARTO",
+    "First Name": "ALYSSA",
+    "Middle Name": "LUCIA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "1008 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1627,
+  "Latitude": 39.92596
+ },
+ {
+  "Street Address": "1930 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "FIORELLO",
+    "First Name": "SALVATORE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1930 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.162994,
+  "Latitude": 39.925575
+ },
+ {
+  "Street Address": "1011 MCKEAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "ALDRIDGE",
+    "First Name": "KEVIN",
+    "Middle Name": "C",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "HOLSTROM",
+    "First Name": "TIMOTHY",
+    "Middle Name": "DANIEL",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1011 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.162895,
+  "Latitude": 39.924747
+ },
+ {
+  "Street Address": "1918 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "PASKIN",
+    "First Name": "KRISTY",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "MELTZER",
+    "First Name": "ALEC",
+    "Middle Name": "G",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1918 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16297,
+  "Latitude": 39.925705
+ },
+ {
+  "Street Address": "1926 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "ROMANO",
+    "First Name": "ALESSANDRA",
+    "Middle Name": "ALESSIA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2012-11-06"
+   },
+   {
+    "Last Name": "DABNEY",
+    "First Name": "TRESSA",
+    "Middle Name": "",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "ROMANO",
+    "First Name": "SABRINA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1926 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16299,
+  "Latitude": 39.92562
+ },
+ {
+  "Street Address": "1943 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "CAMPESE",
+    "First Name": "FRANK",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1943 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.164024,
+  "Latitude": 39.925583
+ },
+ {
+  "Street Address": "1903 S JESSUP ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "BOCHANSKI",
+    "First Name": "DAVID",
+    "Middle Name": "W",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "KALOI",
+    "First Name": "GERALD",
+    "Middle Name": "H",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2012-11-06"
+   }
+  ],
+  "Matched Address": "1903 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16448,
+  "Latitude": 39.926086
+ },
+ {
+  "Street Address": "814 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "PAOLONE",
+    "First Name": "ELIZABETH",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "814 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15969,
+  "Latitude": 39.92476
+ },
+ {
+  "Street Address": "1943 S JESSUP ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "CORBETT",
+    "First Name": "NOAH",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "BRESANI",
+    "First Name": "ELENA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1943 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16458,
+  "Latitude": 39.925655
+ },
+ {
+  "Street Address": "1926 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "LINDSTROM",
+    "First Name": "KARA",
+    "Middle Name": "M",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "SAVASTANI",
+    "First Name": "ROSE",
+    "Middle Name": "N",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2012-11-06"
+   },
+   {
+    "Last Name": "SCHAUER",
+    "First Name": "DEREK",
+    "Middle Name": "JONATHAN",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "POE",
+    "First Name": "MJUMBE",
+    "Middle Name": "WAWATU",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "BEN DOR",
+    "First Name": "YAARA",
+    "Middle Name": "",
+    "Apartment Number": "2",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1926 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16249,
+  "Latitude": 39.925247
+ },
+ {
+  "Street Address": "1909 S WARNOCK ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "NESTER",
+    "First Name": "REBECCA",
+    "Middle Name": "LYNN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1909 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16339,
+  "Latitude": 39.925873
+ },
+ {
+  "Street Address": "940 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "WASSUM",
+    "First Name": "JASON",
+    "Middle Name": "P",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "THOMPSON",
+    "First Name": "DARLA",
+    "Middle Name": "BETH",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "940 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16161,
+  "Latitude": 39.925003
+ },
+ {
+  "Street Address": "1929 S JESSUP ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "COLES",
+    "First Name": "KIMBERLY",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1929 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16454,
+  "Latitude": 39.925808
+ },
+ {
+  "Street Address": "928 DUDLEY ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "BARRETT",
+    "First Name": "SEAN",
+    "Middle Name": "WILLIAM",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "PASTIER",
+    "First Name": "LUCY",
+    "Middle Name": "CLAIRE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "928 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16145,
+  "Latitude": 39.924984
+ },
+ {
+  "Street Address": "1915 S WARNOCK ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "DIFEBO",
+    "First Name": "ELIZABETH",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "DROTT",
+    "First Name": "JASON",
+    "Middle Name": "T",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1915 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1634,
+  "Latitude": 39.925808
+ },
+ {
+  "Street Address": "931 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "FARRELL",
+    "First Name": "MATTHEW",
+    "Middle Name": "W",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "RINEHART",
+    "First Name": "STACI",
+    "Middle Name": "H",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "931 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16139,
+  "Latitude": 39.925373
+ },
+ {
+  "Street Address": "914 MIFFLIN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "MALTBY",
+    "First Name": "ADAM",
+    "Middle Name": "CHRISTOPHER",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "BEAULIEU",
+    "First Name": "MICHELLE",
+    "Middle Name": "MAE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "914 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16108,
+  "Latitude": 39.925755
+ },
+ {
+  "Street Address": "1905 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "KAHAN",
+    "First Name": "ANDREW",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "HUME",
+    "First Name": "CORY",
+    "Middle Name": "PATRICK",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "STRONG",
+    "First Name": "VIRGINIA",
+    "Middle Name": "LEMAY",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "SILVER",
+    "First Name": "JENNA",
+    "Middle Name": "R",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1905 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16394,
+  "Latitude": 39.92599
+ },
+ {
+  "Street Address": "1907 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "ROCK",
+    "First Name": "DAVID",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "ROCK",
+    "First Name": "REBECCA",
+    "Middle Name": "ALDERFER",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1907 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16394,
+  "Latitude": 39.92597
+ },
+ {
+  "Street Address": "932 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "COLSHER",
+    "First Name": "ELIZABETH",
+    "Middle Name": "T",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "COLSHER",
+    "First Name": "WILLIAM",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "932 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16142,
+  "Latitude": 39.925365
+ },
+ {
+  "Street Address": "1915 S 11TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "KITA",
+    "First Name": "ELLEN",
+    "Middle Name": "JOAN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "933 HOFFMAN ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "FORD",
+    "First Name": "MICHAEL",
+    "Middle Name": "THOMAS",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "933 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161415,
+  "Latitude": 39.925377
+ },
+ {
+  "Street Address": "1909 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "GRIMES",
+    "First Name": "COURTNEY",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   }
+  ],
+  "Matched Address": "1909 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16293,
+  "Latitude": 39.925808
+ },
+ {
+  "Street Address": "1908 S ALDER ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "MCDONNELL",
+    "First Name": "JOSHUA",
+    "Middle Name": "S",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "MANCUSO",
+    "First Name": "LAUREN",
+    "Middle Name": "ELIZABETH",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "KOVNAT",
+    "First Name": "PHILIP",
+    "Middle Name": "MATTHEW",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2015-11-03"
+   }
+  ],
+  "Matched Address": "1908 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16294,
+  "Latitude": 39.92581
+ },
+ {
+  "Street Address": "1946 S 10TH ST",
+  "Latest Vote Date": "2021-11-02",
+  "Residents": [
+   {
+    "Last Name": "NEILL",
+    "First Name": "ROBERT",
+    "Middle Name": "S",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "KRUGER",
+    "First Name": "KATHERINE",
+    "Middle Name": "A",
+    "Apartment Number": "1ST FL",
+    "Parsed Last Vote Date": "2021-11-02"
+   },
+   {
+    "Last Name": "INGERSOLL",
+    "First Name": "KATHERINE",
+    "Middle Name": "C",
+    "Apartment Number": "2",
+    "Parsed Last Vote Date": "2011-11-08"
+   },
+   {
+    "Last Name": "FOX",
+    "First Name": "NATHANIEL",
+    "Middle Name": "HERSCHEL",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1946 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.162544,
+  "Latitude": 39.925026
+ },
+ {
+  "Street Address": "1940 S ALDER ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "GOETZEL",
+    "First Name": "JOHANNA",
+    "Middle Name": "NAVA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1940 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.163025,
+  "Latitude": 39.925472
+ },
+ {
+  "Street Address": "1932 S WARNOCK ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "CLAUS",
+    "First Name": "MADISON",
+    "Middle Name": "C",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1932 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16346,
+  "Latitude": 39.92562
+ },
+ {
+  "Street Address": "1918 S 9TH ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "SIMS",
+    "First Name": "CHRISTOPHER",
+    "Middle Name": "O",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1918 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.1609,
+  "Latitude": 39.925205
+ },
+ {
+  "Street Address": "1905 S WARNOCK ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "CAMISA",
+    "First Name": "LORRAINE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1905 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.163376,
+  "Latitude": 39.925915
+ },
+ {
+  "Street Address": "1911 S 11TH ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "NATARAJAN",
+    "First Name": "SRIRAM",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "SRIRAM",
+    "First Name": "DIVYA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "VIJAYA",
+    "First Name": "MELATTUR",
+    "Middle Name": "SUNDARARA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1911 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16395,
+  "Latitude": 39.925926
+ },
+ {
+  "Street Address": "1931 S 10TH ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "GALLAGHER",
+    "First Name": "MATTHEW",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1931 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16251,
+  "Latitude": 39.92508
+ },
+ {
+  "Street Address": "941 MCKEAN ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "WAMPLER",
+    "First Name": "MATTHEW",
+    "Middle Name": "GLEN",
+    "Apartment Number": "3FL",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "LAYTON",
+    "First Name": "CHRISTOPHER",
+    "Middle Name": "M",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "MARCONI",
+    "First Name": "BRUCE",
+    "Middle Name": "",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "941 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1622,
+  "Latitude": 39.924652
+ },
+ {
+  "Street Address": "1904 S ALDER ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "WILLIAMS",
+    "First Name": "ERIC",
+    "Middle Name": "NATHAN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "WILLIAMS",
+    "First Name": "MELISSA",
+    "Middle Name": "ANN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "1904 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16293,
+  "Latitude": 39.925854
+ },
+ {
+  "Street Address": "818 DUDLEY ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "QUEZADA",
+    "First Name": "JACKIE",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "QUEZADA",
+    "First Name": "LEONEL",
+    "Middle Name": "E",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "818 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.159744,
+  "Latitude": 39.924763
+ },
+ {
+  "Street Address": "928 HOFFMAN ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "BRENNEMAN",
+    "First Name": "HANNAH",
+    "Middle Name": "AMELIA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "928 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16137,
+  "Latitude": 39.925358
+ },
+ {
+  "Street Address": "1922 S 11TH ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "HARTMAN",
+    "First Name": "JULIA",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1922 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.163994,
+  "Latitude": 39.9258
+ },
+ {
+  "Street Address": "1927 S JESSUP ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "WALSKI",
+    "First Name": "ADAM",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "KUTZA",
+    "First Name": "STEPHANIE",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1927 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16454,
+  "Latitude": 39.925827
+ },
+ {
+  "Street Address": "935 MCKEAN ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "TSANG",
+    "First Name": "VAN",
+    "Middle Name": "D",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "TSANG",
+    "First Name": "WILLIAM",
+    "Middle Name": "WAI KA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "TSANG",
+    "First Name": "SHING",
+    "Middle Name": "KAM",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "935 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16216,
+  "Latitude": 39.92465
+ },
+ {
+  "Street Address": "1005 MCKEAN ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "HERSHEY",
+    "First Name": "JESSE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "RICCIUTI",
+    "First Name": "SARAH",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1005 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.163124,
+  "Latitude": 39.924778
+ },
+ {
+  "Street Address": "1908 S 10TH ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "LAWLER",
+    "First Name": "SHANE",
+    "Middle Name": "",
+    "Apartment Number": "1ST FL",
+    "Parsed Last Vote Date": "2008-11-04"
+   },
+   {
+    "Last Name": "SCOTT",
+    "First Name": "JAMES",
+    "Middle Name": "MICHAEL",
+    "Apartment Number": "2",
+    "Parsed Last Vote Date": "2013-11-05"
+   },
+   {
+    "Last Name": "BENNER",
+    "First Name": "GARRETT",
+    "Middle Name": "",
+    "Apartment Number": "2",
+    "Parsed Last Vote Date": "--"
+   },
+   {
+    "Last Name": "MURRAY",
+    "First Name": "SARA",
+    "Middle Name": "JEAN",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "GOLDBERG",
+    "First Name": "JAMIE",
+    "Middle Name": "ROSE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1908 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.1624,
+  "Latitude": 39.925655
+ },
+ {
+  "Street Address": "1938 S 9TH ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "BONELLI",
+    "First Name": "FLORIDA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1938 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16097,
+  "Latitude": 39.92485
+ },
+ {
+  "Street Address": "1927 S 11TH ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "ALAMPI",
+    "First Name": "PHILIP",
+    "Middle Name": "N",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "ALAMPI",
+    "First Name": "EDWINA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1927 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16399,
+  "Latitude": 39.925755
+ },
+ {
+  "Street Address": "1947 S 11TH ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "SOUTHWELL",
+    "First Name": "TRACI",
+    "Middle Name": "MARIE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1947 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16403,
+  "Latitude": 39.92554
+ },
+ {
+  "Street Address": "1901 S WARNOCK ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "MANSOR",
+    "First Name": "THOMAS",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "MANSOR",
+    "First Name": "MARIE",
+    "Middle Name": "R",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1901 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16337,
+  "Latitude": 39.925957
+ },
+ {
+  "Street Address": "1933 S 11TH ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "ODONNEL",
+    "First Name": "KATHRYN",
+    "Middle Name": "BLAIR RANKIN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "ODONNEL",
+    "First Name": "KEALAN",
+    "Middle Name": "SEAMUS",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1933 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.164,
+  "Latitude": 39.925694
+ },
+ {
+  "Street Address": "915 HOFFMAN ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "ERDELY",
+    "First Name": "PETER",
+    "Middle Name": "G",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "915 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16118,
+  "Latitude": 39.925343
+ },
+ {
+  "Street Address": "1021 MCKEAN ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "ROMEO",
+    "First Name": "ANTOINETTE",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-11-06"
+   },
+   {
+    "Last Name": "SELVAGGI",
+    "First Name": "FREDERICK",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2008-11-04"
+   },
+   {
+    "Last Name": "HUMPHREYS",
+    "First Name": "DEVIN",
+    "Middle Name": "THOMAS",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1021 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16368,
+  "Latitude": 39.924854
+ },
+ {
+  "Street Address": "922 HOFFMAN ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "DELCOCO",
+    "First Name": "JENNIE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2008-11-04"
+   },
+   {
+    "Last Name": "SCHWARZ",
+    "First Name": "AMANDA",
+    "Middle Name": "RACHEL",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "922 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161285,
+  "Latitude": 39.925346
+ },
+ {
+  "Street Address": "1918 S WARNOCK ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "SINGEL",
+    "First Name": "ERIC",
+    "Middle Name": "P",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1918 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16343,
+  "Latitude": 39.92577
+ },
+ {
+  "Street Address": "1926 S WARNOCK ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "KAPLAFKA",
+    "First Name": "ANNETTE",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1926 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.163445,
+  "Latitude": 39.925682
+ },
+ {
+  "Street Address": "1902 S WARNOCK ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "BASMAJIAN",
+    "First Name": "JASON",
+    "Middle Name": "ANDREW",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "DEVARTI",
+    "First Name": "KAREN",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "1902 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16339,
+  "Latitude": 39.925938
+ },
+ {
+  "Street Address": "1924 S 11TH ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "SCHWARTZ",
+    "First Name": "SHELBY",
+    "Middle Name": "REASE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2015-11-03"
+   },
+   {
+    "Last Name": "WHEELER",
+    "First Name": "ALLISON",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "VILLAFANE",
+    "First Name": "LOUIS",
+    "Middle Name": "ANTHONY",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "SCHWARTZ",
+    "First Name": "SPENCER",
+    "Middle Name": "M",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1917 S JESSUP ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "MARZUCCO",
+    "First Name": "GINA",
+    "Middle Name": "MARIE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "SCUILLI",
+    "First Name": "MICHAEL",
+    "Middle Name": "STEPHEN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1917 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16452,
+  "Latitude": 39.925934
+ },
+ {
+  "Street Address": "915 DUDLEY ST",
+  "Latest Vote Date": "2021-05-18",
+  "Residents": [
+   {
+    "Last Name": "MCDOWELL",
+    "First Name": "CHRISTOPHER",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   },
+   {
+    "Last Name": "MCDOWELL",
+    "First Name": "AMANDA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2021-05-18"
+   }
+  ],
+  "Matched Address": "915 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16126,
+  "Latitude": 39.924973
+ },
+ {
+  "Street Address": "1925 S JESSUP ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "FROMM",
+    "First Name": "THERESA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1925 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.164536,
+  "Latitude": 39.92585
+ },
+ {
+  "Street Address": "1950 S 11TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "SCHULTZ",
+    "First Name": "MOLLY",
+    "Middle Name": "FAITH",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "934 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "MASCITELLI",
+    "First Name": "CARLA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "934 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16153,
+  "Latitude": 39.924995
+ },
+ {
+  "Street Address": "1923 S 10TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "FRUCHTER",
+    "First Name": "HAROLD",
+    "Middle Name": "JOSEPH",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1908 S 9TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "MUNOZ",
+    "First Name": "CIERRA",
+    "Middle Name": "D",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "BENAVIDEZ",
+    "First Name": "DINA",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1908 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.160835,
+  "Latitude": 39.92545
+ },
+ {
+  "Street Address": "933 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "SALVATORE",
+    "First Name": "CAPRI",
+    "Middle Name": "R",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "933 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1615,
+  "Latitude": 39.925003
+ },
+ {
+  "Street Address": "1945 S JESSUP ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "SIMON",
+    "First Name": "JOSEPH",
+    "Middle Name": "",
+    "Apartment Number": "2",
+    "Parsed Last Vote Date": "--"
+   },
+   {
+    "Last Name": "MALLON",
+    "First Name": "LOREN",
+    "Middle Name": "",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1945 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16459,
+  "Latitude": 39.925636
+ },
+ {
+  "Street Address": "1911 S 10TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "DEVOWE",
+    "First Name": "AILA",
+    "Middle Name": "GILANA CARLSON",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1911 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.162415,
+  "Latitude": 39.925537
+ },
+ {
+  "Street Address": "1920 S ALDER ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "QUINTERO",
+    "First Name": "KATHERINE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "MARREN",
+    "First Name": "THOMAS",
+    "Middle Name": "THADDEUS",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1920 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16297,
+  "Latitude": 39.925682
+ },
+ {
+  "Street Address": "1916 S WARNOCK ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "RYBALTOWSKI",
+    "First Name": "JUSTINE",
+    "Middle Name": "GERILYN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1916 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16342,
+  "Latitude": 39.92579
+ },
+ {
+  "Street Address": "1922 S ALDER ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "PANICHELLI",
+    "First Name": "TAYLOR",
+    "Middle Name": "N",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1922 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16298,
+  "Latitude": 39.925663
+ },
+ {
+  "Street Address": "1901 S 9TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "BABAKI",
+    "First Name": "MOHAMMED",
+    "Middle Name": "ANTHONY",
+    "Apartment Number": "B04",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1901 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16077,
+  "Latitude": 39.925682
+ },
+ {
+  "Street Address": "911 HOFFMAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "BOLTON",
+    "First Name": "MARCUS",
+    "Middle Name": "JOHN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "911 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161125,
+  "Latitude": 39.925335
+ },
+ {
+  "Street Address": "1016 MIFFLIN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "BROWN",
+    "First Name": "MICHAEL",
+    "Middle Name": "JAMES",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "BROWN",
+    "First Name": "VICTORIA",
+    "Middle Name": "NATALI",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1016 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.163025,
+  "Latitude": 39.92601
+ },
+ {
+  "Street Address": "1931 S 11TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "CONFALONE",
+    "First Name": "MICHAEL",
+    "Middle Name": "PATRICK",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "JOHN",
+    "First Name": "BRITTANY",
+    "Middle Name": "K",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "FRIEDMAN",
+    "First Name": "ROBYN",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "VOIT",
+    "First Name": "RALPH",
+    "Middle Name": "JOHN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "1931 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.163994,
+  "Latitude": 39.925713
+ },
+ {
+  "Street Address": "916 HOFFMAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "JOHNSON",
+    "First Name": "QUINTEN",
+    "Middle Name": "RAYMOND",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "916 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16121,
+  "Latitude": 39.925335
+ },
+ {
+  "Street Address": "828 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "SIRAJ",
+    "First Name": "HARON",
+    "Middle Name": "SAID",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "IMRAN",
+    "First Name": "HANAN",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "828 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15988,
+  "Latitude": 39.92478
+ },
+ {
+  "Street Address": "808 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "NUNEZ",
+    "First Name": "SILVESTRE",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "808 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.159615,
+  "Latitude": 39.924747
+ },
+ {
+  "Street Address": "839 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "BRITO",
+    "First Name": "CAIRONY",
+    "Middle Name": "ALFONSO",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "NUNEZ",
+    "First Name": "LUCIA",
+    "Middle Name": "RAMONA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1921 S ALDER ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "DAOUST",
+    "First Name": "JASON",
+    "Middle Name": "SCOTT",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1921 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16296,
+  "Latitude": 39.925682
+ },
+ {
+  "Street Address": "1941 S ALDER ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "JOHNSON",
+    "First Name": "NATHAN",
+    "Middle Name": "LEE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1941 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16301,
+  "Latitude": 39.92547
+ },
+ {
+  "Street Address": "1012 MIFFLIN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "MCDERMOTT",
+    "First Name": "DAVID",
+    "Middle Name": "T",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1012 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16285,
+  "Latitude": 39.92598
+ },
+ {
+  "Street Address": "1941 S JESSUP ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "HUTT",
+    "First Name": "HENRY",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1941 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16457,
+  "Latitude": 39.92568
+ },
+ {
+  "Street Address": "908 HOFFMAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "CIPPARONE",
+    "First Name": "LAURA",
+    "Middle Name": "C.",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "908 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1611,
+  "Latitude": 39.925323
+ },
+ {
+  "Street Address": "931 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "NIELSEN",
+    "First Name": "MELODY",
+    "Middle Name": "R",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "931 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161476,
+  "Latitude": 39.925
+ },
+ {
+  "Street Address": "834 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "DAVIS",
+    "First Name": "ERIC",
+    "Middle Name": "WILLIAM",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "834 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.159966,
+  "Latitude": 39.924793
+ },
+ {
+  "Street Address": "833 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "NGUYEN",
+    "First Name": "BRIAN",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "833 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16042,
+  "Latitude": 39.924423
+ },
+ {
+  "Street Address": "929 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "ZHENG",
+    "First Name": "HONG",
+    "Middle Name": "G",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "929 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.162125,
+  "Latitude": 39.92464
+ },
+ {
+  "Street Address": "930 HOFFMAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "OLAFSEN",
+    "First Name": "HARRY",
+    "Middle Name": "JOHN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "BRYAN",
+    "First Name": "CHRISTOPHER",
+    "Middle Name": "ROBERT",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "930 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16139,
+  "Latitude": 39.92536
+ },
+ {
+  "Street Address": "1913 S 11TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "DETWILER",
+    "First Name": "JANET",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1914 S ALDER ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "CONAHAN",
+    "First Name": "PATRICK",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "SCHWARTZ",
+    "First Name": "SAMANTHA",
+    "Middle Name": "PRISCILLA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1914 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16296,
+  "Latitude": 39.925747
+ },
+ {
+  "Street Address": "1927 S ALDER ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "FOLDES",
+    "First Name": "KRISTIN",
+    "Middle Name": "ANN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1927 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16297,
+  "Latitude": 39.925617
+ },
+ {
+  "Street Address": "907 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "MURO",
+    "First Name": "KIMBERLY",
+    "Middle Name": "ILENE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "907 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16135,
+  "Latitude": 39.924545
+ },
+ {
+  "Street Address": "903 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "TRUONG",
+    "First Name": "HONG THI",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "903 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1611,
+  "Latitude": 39.92495
+ },
+ {
+  "Street Address": "1939 S WARNOCK ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "DOWNEY",
+    "First Name": "ERICA",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "HANS",
+    "First Name": "MAX",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1939 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16346,
+  "Latitude": 39.925556
+ },
+ {
+  "Street Address": "920 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "PENTASUGLIA",
+    "First Name": "MONICA",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "920 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16135,
+  "Latitude": 39.924973
+ },
+ {
+  "Street Address": "1937 S 11TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "HARRISON",
+    "First Name": "DONALD",
+    "Middle Name": "MAC LEOD",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1937 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16401,
+  "Latitude": 39.925648
+ },
+ {
+  "Street Address": "901 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "FRAKE",
+    "First Name": "GABRIELLE",
+    "Middle Name": "LESLIE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "901 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16111,
+  "Latitude": 39.92452
+ },
+ {
+  "Street Address": "1901 S ALDER ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "KIRCHER",
+    "First Name": "LOUIS",
+    "Middle Name": "R",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1901 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16291,
+  "Latitude": 39.92589
+ },
+ {
+  "Street Address": "1929 S WARNOCK ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "BOUSSILA",
+    "First Name": "AICHA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "AMROUCHE",
+    "First Name": "MOHAMED",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1929 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16344,
+  "Latitude": 39.92566
+ },
+ {
+  "Street Address": "1909 S JESSUP ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "ROSETTI",
+    "First Name": "FRANCIS",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "LACONTORA",
+    "First Name": "ELEANOR",
+    "Middle Name": "P",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1909 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1645,
+  "Latitude": 39.92602
+ },
+ {
+  "Street Address": "1939 S ALDER ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "MCGEEHAN",
+    "First Name": "BRENDEN",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1939 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.163,
+  "Latitude": 39.92549
+ },
+ {
+  "Street Address": "927 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "DOLCE",
+    "First Name": "ELIZABETH",
+    "Middle Name": "CAROL",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "TUNSTALL",
+    "First Name": "KATHERINE",
+    "Middle Name": "EMMA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2019-05-21"
+   }
+  ],
+  "Matched Address": "927 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16211,
+  "Latitude": 39.92464
+ },
+ {
+  "Street Address": "1945 S 11TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "METZ",
+    "First Name": "MARIELA",
+    "Middle Name": "MIREYA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1945 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.164024,
+  "Latitude": 39.925564
+ },
+ {
+  "Street Address": "932 MIFFLIN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "SANDERS",
+    "First Name": "MEGAN",
+    "Middle Name": "ELIZABETH",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "932 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16132,
+  "Latitude": 39.925785
+ },
+ {
+  "Street Address": "1030 MIFFLIN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "HIJAZI",
+    "First Name": "MOHAMAD",
+    "Middle Name": "HASSAN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "HIJAZI",
+    "First Name": "AHMAD",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "HIJAZI",
+    "First Name": "HADI",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "HIJAZI",
+    "First Name": "KHALIL",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1030 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16343,
+  "Latitude": 39.92606
+ },
+ {
+  "Street Address": "1916 S 9TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "LUONG",
+    "First Name": "CHAN",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-11-06"
+   },
+   {
+    "Last Name": "LUONG",
+    "First Name": "REX",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1916 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16088,
+  "Latitude": 39.925266
+ },
+ {
+  "Street Address": "1905 S JESSUP ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "LINCICOME",
+    "First Name": "JULIA",
+    "Middle Name": "ELIZABETH",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1905 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16449,
+  "Latitude": 39.926064
+ },
+ {
+  "Street Address": "1912 S 9TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "HIN",
+    "First Name": "SON",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "THACH",
+    "First Name": "BORITH",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "1912 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.160866,
+  "Latitude": 39.92533
+ },
+ {
+  "Street Address": "1915 S ALDER ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "BANUL",
+    "First Name": "SAMANTHA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "RITTS",
+    "First Name": "SHANNON",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "DIETRICH",
+    "First Name": "MATTHEW",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1915 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16294,
+  "Latitude": 39.925747
+ },
+ {
+  "Street Address": "1932 S ALDER ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "FRAKER",
+    "First Name": "ROBERT",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1932 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.163,
+  "Latitude": 39.925556
+ },
+ {
+  "Street Address": "1910 S ALDER ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "SHEIRICH",
+    "First Name": "KATHLEEN",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "DIFENDERFER",
+    "First Name": "TAYLOR",
+    "Middle Name": "LYN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1910 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16295,
+  "Latitude": 39.92579
+ },
+ {
+  "Street Address": "1910 S 9TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "RAY",
+    "First Name": "ANTHONY",
+    "Middle Name": "ELIJHWION",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2014-11-04"
+   },
+   {
+    "Last Name": "THACH",
+    "First Name": "BORANY",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2010-11-02"
+   },
+   {
+    "Last Name": "PA",
+    "First Name": "SARATH",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2014-11-04"
+   },
+   {
+    "Last Name": "THACH",
+    "First Name": "AARON",
+    "Middle Name": "W",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1910 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16085,
+  "Latitude": 39.92539
+ },
+ {
+  "Street Address": "806 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "BUTLER",
+    "First Name": "BRITTANY",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "JIANG",
+    "First Name": "YOU YOU",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "806 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.159584,
+  "Latitude": 39.924744
+ },
+ {
+  "Street Address": "902 HOFFMAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "VAY",
+    "First Name": "AMANDA",
+    "Middle Name": "MUI",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "THAI",
+    "First Name": "VINH",
+    "Middle Name": "T",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "902 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16102,
+  "Latitude": 39.925312
+ },
+ {
+  "Street Address": "1931 S JESSUP ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "RENNINGER",
+    "First Name": "PHILLIP",
+    "Middle Name": "THEODORE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "ALIDJANI",
+    "First Name": "RAINA",
+    "Middle Name": "ASHLEY",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1931 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16455,
+  "Latitude": 39.925785
+ },
+ {
+  "Street Address": "1942 S 10TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "ROSENBERGER",
+    "First Name": "VICTORIA",
+    "Middle Name": "MARIE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1942 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16254,
+  "Latitude": 39.925045
+ },
+ {
+  "Street Address": "933 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "COLANTUONO",
+    "First Name": "MICHAEL",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "933 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16215,
+  "Latitude": 39.924644
+ },
+ {
+  "Street Address": "820 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "VARGAS",
+    "First Name": "PEDRO",
+    "Middle Name": "F",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   },
+   {
+    "Last Name": "VARGAS",
+    "First Name": "BIANCA",
+    "Middle Name": "KARINA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "820 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.159775,
+  "Latitude": 39.924767
+ },
+ {
+  "Street Address": "913 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "SNYDER",
+    "First Name": "DAVID",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2008-11-04"
+   },
+   {
+    "Last Name": "IRVIN",
+    "First Name": "ARIELLE",
+    "Middle Name": "FROMM",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "MURPHY",
+    "First Name": "KEVIN",
+    "Middle Name": "PATRICK",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "913 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16158,
+  "Latitude": 39.924576
+ },
+ {
+  "Street Address": "812 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "BURNS",
+    "First Name": "ALBERT",
+    "Middle Name": "VERNON",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "812 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15967,
+  "Latitude": 39.924755
+ },
+ {
+  "Street Address": "1917 S 11TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "BEHL",
+    "First Name": "ANNA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1917 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16396,
+  "Latitude": 39.92586
+ },
+ {
+  "Street Address": "931 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "DEROSE",
+    "First Name": "DENISE",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "931 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16214,
+  "Latitude": 39.924644
+ },
+ {
+  "Street Address": "1913 S WARNOCK ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "DIARENZO",
+    "First Name": "MICHELE",
+    "Middle Name": "C",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   },
+   {
+    "Last Name": "KAHN",
+    "First Name": "LAUREN",
+    "Middle Name": "ELIZABETH",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1913 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1634,
+  "Latitude": 39.92583
+ },
+ {
+  "Street Address": "901 HOFFMAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "MOORE",
+    "First Name": "JEFFREY",
+    "Middle Name": "C",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "901 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16099,
+  "Latitude": 39.92532
+ },
+ {
+  "Street Address": "1937 S JESSUP ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "ALDRIDGE",
+    "First Name": "AMY",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1937 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.164566,
+  "Latitude": 39.92572
+ },
+ {
+  "Street Address": "1928 S 11TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "VILLARI",
+    "First Name": "PETER",
+    "Middle Name": "G",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1928 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.164,
+  "Latitude": 39.925735
+ },
+ {
+  "Street Address": "1914 S WARNOCK ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "BRUNO",
+    "First Name": "DONATO",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1914 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.163414,
+  "Latitude": 39.92581
+ },
+ {
+  "Street Address": "1910 S 10TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "HART",
+    "First Name": "SUSAN",
+    "Middle Name": "C",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "HART",
+    "First Name": "KATHLEEN",
+    "Middle Name": "R",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "RUSSO",
+    "First Name": "SHARON",
+    "Middle Name": "S",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "POZZA",
+    "First Name": "MICHAEL",
+    "Middle Name": "T",
+    "Apartment Number": "PHILA",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1910 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.162415,
+  "Latitude": 39.9256
+ },
+ {
+  "Street Address": "1928 S 8TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "LAO",
+    "First Name": "CHENG",
+    "Middle Name": "P",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "LAO KHOV",
+    "First Name": "ENG",
+    "Middle Name": "G",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "1928 S 8TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15942,
+  "Latitude": 39.924583
+ },
+ {
+  "Street Address": "1922 S WARNOCK ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "PILLI",
+    "First Name": "MARK",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1922 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16344,
+  "Latitude": 39.925728
+ },
+ {
+  "Street Address": "1953 S 11TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "FALGIE",
+    "First Name": "JEANNE",
+    "Middle Name": "K",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "RATHOF",
+    "First Name": "FREDERICK",
+    "Middle Name": "W",
+    "Apartment Number": "0002",
+    "Parsed Last Vote Date": "2016-11-08"
+   },
+   {
+    "Last Name": "FRATTO",
+    "First Name": "ANTHONY",
+    "Middle Name": "JAMES",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1953 S 11TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16404,
+  "Latitude": 39.925476
+ },
+ {
+  "Street Address": "800 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "WYLIE",
+    "First Name": "SHERRIEA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "WYLIE",
+    "First Name": "SHAWN",
+    "Middle Name": "D",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "800 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15951,
+  "Latitude": 39.924732
+ },
+ {
+  "Street Address": "1930 S WARNOCK ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "THOMAS",
+    "First Name": "ROSEANNE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "THOMAS",
+    "First Name": "DAVID",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1930 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16345,
+  "Latitude": 39.92564
+ },
+ {
+  "Street Address": "1924 S WARNOCK ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "ADDES CARLETON",
+    "First Name": "LAURIE",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1924 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16344,
+  "Latitude": 39.925705
+ },
+ {
+  "Street Address": "904 MIFFLIN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "ZUCCARELLO",
+    "First Name": "DONNA",
+    "Middle Name": "P",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   },
+   {
+    "Last Name": "ZUCCARELLO",
+    "First Name": "MARK",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2008-11-04"
+   },
+   {
+    "Last Name": "ZUCCARELLO",
+    "First Name": "PIA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   },
+   {
+    "Last Name": "MORSA",
+    "First Name": "JAMIE",
+    "Middle Name": "LYNN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "904 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16094,
+  "Latitude": 39.925735
+ },
+ {
+  "Street Address": "915 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "PHAN",
+    "First Name": "LON",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "915 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16166,
+  "Latitude": 39.924583
+ },
+ {
+  "Street Address": "925 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "DAVELLA",
+    "First Name": "CHRISTINE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "925 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16139,
+  "Latitude": 39.924988
+ },
+ {
+  "Street Address": "1912 S WARNOCK ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "TROPIANO",
+    "First Name": "ROSINA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "TROPIANO",
+    "First Name": "DOMENICO",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-11-06"
+   },
+   {
+    "Last Name": "TROPIANO",
+    "First Name": "MARIA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1912 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.163414,
+  "Latitude": 39.92583
+ },
+ {
+  "Street Address": "906 HOFFMAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "PIAZZA",
+    "First Name": "MARY",
+    "Middle Name": "D",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "PIAZZA",
+    "First Name": "JOSEPH",
+    "Middle Name": "D",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "906 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16107,
+  "Latitude": 39.92532
+ },
+ {
+  "Street Address": "813 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "MERCADO",
+    "First Name": "JOANN",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "JOHNSON",
+    "First Name": "JASMIN",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "JOHNSON",
+    "First Name": "ANTOINE",
+    "Middle Name": "MALIK",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "813 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15989,
+  "Latitude": 39.92436
+ },
+ {
+  "Street Address": "1933 S 10TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "DOLAN",
+    "First Name": "JOSEPH",
+    "Middle Name": "",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2017-05-16"
+   },
+   {
+    "Last Name": "SIMPKINS",
+    "First Name": "GERALDINE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1933 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16252,
+  "Latitude": 39.925068
+ },
+ {
+  "Street Address": "807 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "ORSINI",
+    "First Name": "WILFREDO",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "807 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1597,
+  "Latitude": 39.92433
+ },
+ {
+  "Street Address": "803 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "LAU",
+    "First Name": "HIN",
+    "Middle Name": "HOA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "803 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15958,
+  "Latitude": 39.924316
+ },
+ {
+  "Street Address": "917 MCKEAN ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "PIERMATTEO",
+    "First Name": "THOMAS",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   },
+   {
+    "Last Name": "PIERMATTEO",
+    "First Name": "THOMAS",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "917 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161736,
+  "Latitude": 39.924595
+ },
+ {
+  "Street Address": "1915 S JESSUP ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "SANTILLI",
+    "First Name": "GLORIA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1915 S JESSUP ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16451,
+  "Latitude": 39.925957
+ },
+ {
+  "Street Address": "1929 A S 10TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "CONALLEN",
+    "First Name": "KEITH",
+    "Middle Name": "JAMES",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "1929 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16251,
+  "Latitude": 39.92509
+ },
+ {
+  "Street Address": "936 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "SCHMITT",
+    "First Name": "MARLENE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   }
+  ],
+  "Matched Address": "936 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16156,
+  "Latitude": 39.925
+ },
+ {
+  "Street Address": "804 DUDLEY ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "KAHN",
+    "First Name": "BRETT",
+    "Middle Name": "W",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "KAHN",
+    "First Name": "ALISA",
+    "Middle Name": "ASHLEY",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "STEELE",
+    "First Name": "DOROTHY",
+    "Middle Name": "K",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "SOUTHERN",
+    "First Name": "JUSTIN",
+    "Middle Name": "DACEY",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "LUSARDI",
+    "First Name": "ISABELLA",
+    "Middle Name": "MAUREEN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "804 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15956,
+  "Latitude": 39.92474
+ },
+ {
+  "Street Address": "1920 S 9TH ST",
+  "Latest Vote Date": "2020-11-03",
+  "Residents": [
+   {
+    "Last Name": "YOUNGMAN",
+    "First Name": "ERIN",
+    "Middle Name": "NOEL",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-11-03"
+   },
+   {
+    "Last Name": "DANIELE",
+    "First Name": "CAROLINA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "1920 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.160904,
+  "Latitude": 39.925144
+ },
+ {
+  "Street Address": "1918 S 11TH ST",
+  "Latest Vote Date": "2020-06-02",
+  "Residents": [
+   {
+    "Last Name": "MAJOWICZ",
+    "First Name": "MELANIA",
+    "Middle Name": "N",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-06-02"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "816 DUDLEY ST",
+  "Latest Vote Date": "2020-06-02",
+  "Residents": [
+   {
+    "Last Name": "ROBLES",
+    "First Name": "BROOKE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2020-06-02"
+   },
+   {
+    "Last Name": "FALU",
+    "First Name": "BRYAN",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "816 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15972,
+  "Latitude": 39.92476
+ },
+ {
+  "Street Address": "1900 S 9TH ST, PO BOX FLOOR 2",
+  "Latest Vote Date": "2019-05-21",
+  "Residents": [
+   {
+    "Last Name": "TROENDLE",
+    "First Name": "VICTORIA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2019-05-21"
+   }
+  ],
+  "Matched Address": "1900 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16078,
+  "Latitude": 39.925686
+ },
+ {
+  "Street Address": "1928 S WARNOCK ST",
+  "Latest Vote Date": "2018-11-06",
+  "Residents": [
+   {
+    "Last Name": "GABEL",
+    "First Name": "CRISSY",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-11-06"
+   }
+  ],
+  "Matched Address": "1928 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16345,
+  "Latitude": 39.925663
+ },
+ {
+  "Street Address": "826 DUDLEY ST",
+  "Latest Vote Date": "2018-11-06",
+  "Residents": [
+   {
+    "Last Name": "VARGAS ESPINAL",
+    "First Name": "MARTIN",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2012-11-06"
+   },
+   {
+    "Last Name": "VARGAS",
+    "First Name": "LUISA",
+    "Middle Name": "RASHELL",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-11-06"
+   },
+   {
+    "Last Name": "VARGAS",
+    "First Name": "STEPHANIE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-11-06"
+   }
+  ],
+  "Matched Address": "826 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15986,
+  "Latitude": 39.924778
+ },
+ {
+  "Street Address": "1922 S 10TH ST",
+  "Latest Vote Date": "2018-11-06",
+  "Residents": [
+   {
+    "Last Name": "PULLEY",
+    "First Name": "MELANIE",
+    "Middle Name": "LYNN",
+    "Apartment Number": "2",
+    "Parsed Last Vote Date": "2018-11-06"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "934 MIFFLIN ST",
+  "Latest Vote Date": "2018-11-06",
+  "Residents": [
+   {
+    "Last Name": "SCHWARTZ",
+    "First Name": "EMMA",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-11-06"
+   }
+  ],
+  "Matched Address": "934 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16135,
+  "Latitude": 39.92579
+ },
+ {
+  "Street Address": "927 HOFFMAN ST",
+  "Latest Vote Date": "2018-05-15",
+  "Residents": [
+   {
+    "Last Name": "GILEWICZ",
+    "First Name": "NICHOLAS",
+    "Middle Name": "JOHN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2018-05-15"
+   }
+  ],
+  "Matched Address": "927 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16134,
+  "Latitude": 39.925365
+ },
+ {
+  "Street Address": "1927 S 10TH ST",
+  "Latest Vote Date": "2017-11-07",
+  "Residents": [
+   {
+    "Last Name": "SMITH",
+    "First Name": "RACHEL",
+    "Middle Name": "MAE",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "2017-11-07"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "935 HOFFMAN ST",
+  "Latest Vote Date": "2017-05-16",
+  "Residents": [
+   {
+    "Last Name": "SELBY",
+    "First Name": "AIQUISHA",
+    "Middle Name": "N",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2017-05-16"
+   },
+   {
+    "Last Name": "WAITERS",
+    "First Name": "EARON",
+    "Middle Name": "A",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2015-11-03"
+   }
+  ],
+  "Matched Address": "935 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.161446,
+  "Latitude": 39.92538
+ },
+ {
+  "Street Address": "805 MCKEAN ST",
+  "Latest Vote Date": "2016-11-08",
+  "Residents": [
+   {
+    "Last Name": "ZACATELCO",
+    "First Name": "SELENA",
+    "Middle Name": "ODALIS",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "805 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15964,
+  "Latitude": 39.924324
+ },
+ {
+  "Street Address": "936 MIFFLIN ST",
+  "Latest Vote Date": "2016-11-08",
+  "Residents": [
+   {
+    "Last Name": "LUNDY",
+    "First Name": "JAMES",
+    "Middle Name": "PATRICK",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "936 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16138,
+  "Latitude": 39.925793
+ },
+ {
+  "Street Address": "815 MCKEAN ST",
+  "Latest Vote Date": "2016-11-08",
+  "Residents": [
+   {
+    "Last Name": "SON",
+    "First Name": "SAHUYNH",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "815 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15995,
+  "Latitude": 39.924366
+ },
+ {
+  "Street Address": "911 MCKEAN ST",
+  "Latest Vote Date": "2016-11-08",
+  "Residents": [
+   {
+    "Last Name": "WILHELMSEN",
+    "First Name": "DANIEL",
+    "Middle Name": "JENS",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "911 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1615,
+  "Latitude": 39.924564
+ },
+ {
+  "Street Address": "1944 S 10TH ST",
+  "Latest Vote Date": "2016-11-08",
+  "Residents": [
+   {
+    "Last Name": "GRIFFIN",
+    "First Name": "KATHERINE",
+    "Middle Name": "OLIVIA",
+    "Apartment Number": "3",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "1944 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.162544,
+  "Latitude": 39.925034
+ },
+ {
+  "Street Address": "1937 S 9TH ST",
+  "Latest Vote Date": "2016-11-08",
+  "Residents": [
+   {
+    "Last Name": "PAOLOCA",
+    "First Name": "CHRISTIE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "1937 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16095,
+  "Latitude": 39.92487
+ },
+ {
+  "Street Address": "830 DUDLEY ST",
+  "Latest Vote Date": "2016-11-08",
+  "Residents": [
+   {
+    "Last Name": "SMITH",
+    "First Name": "CATHERINE",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "830 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15991,
+  "Latitude": 39.924786
+ },
+ {
+  "Street Address": "1906 S 10TH ST",
+  "Latest Vote Date": "2016-11-08",
+  "Residents": [
+   {
+    "Last Name": "PICCOLO",
+    "First Name": "SALVATORA",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "1906 S 10TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16239,
+  "Latitude": 39.925716
+ },
+ {
+  "Street Address": "1934 S WARNOCK ST",
+  "Latest Vote Date": "2016-11-08",
+  "Residents": [
+   {
+    "Last Name": "MARCO",
+    "First Name": "CATHERINE",
+    "Middle Name": "JOAN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "1934 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16347,
+  "Latitude": 39.9256
+ },
+ {
+  "Street Address": "1929 S ALDER ST",
+  "Latest Vote Date": "2016-11-08",
+  "Residents": [
+   {
+    "Last Name": "MARROLLO",
+    "First Name": "JOYCE",
+    "Middle Name": "M",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "1929 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16298,
+  "Latitude": 39.9256
+ },
+ {
+  "Street Address": "1018 MIFFLIN ST",
+  "Latest Vote Date": "2016-11-08",
+  "Residents": [
+   {
+    "Last Name": "HEALY",
+    "First Name": "MICHAEL",
+    "Middle Name": "J",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-11-08"
+   }
+  ],
+  "Matched Address": "1018 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1631,
+  "Latitude": 39.926018
+ },
+ {
+  "Street Address": "1020 MIFFLIN ST",
+  "Latest Vote Date": "2016-04-26",
+  "Residents": [
+   {
+    "Last Name": "CALISE",
+    "First Name": "ELIZABETH",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2016-04-26"
+   }
+  ],
+  "Matched Address": "1020 MIFFLIN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16318,
+  "Latitude": 39.92603
+ },
+ {
+  "Street Address": "1911 S WARNOCK ST",
+  "Latest Vote Date": "2015-05-19",
+  "Residents": [
+   {
+    "Last Name": "CALABRIA",
+    "First Name": "MARIE",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2015-05-19"
+   }
+  ],
+  "Matched Address": "1911 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16339,
+  "Latitude": 39.925854
+ },
+ {
+  "Street Address": "809 MCKEAN ST",
+  "Latest Vote Date": "2012-11-06",
+  "Residents": [
+   {
+    "Last Name": "EVERETT BEY",
+    "First Name": "SEQUAN",
+    "Middle Name": "LAMAR",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2012-11-06"
+   },
+   {
+    "Last Name": "WILSON",
+    "First Name": "SHANICE",
+    "Middle Name": "SHAREE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "809 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.15977,
+  "Latitude": 39.924343
+ },
+ {
+  "Street Address": "822 DUDLEY ST",
+  "Latest Vote Date": "2012-11-06",
+  "Residents": [
+   {
+    "Last Name": "ALBANESE",
+    "First Name": "THOMAS",
+    "Middle Name": "CHARLES",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2012-11-06"
+   }
+  ],
+  "Matched Address": "822 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1598,
+  "Latitude": 39.92477
+ },
+ {
+  "Street Address": "926 DUDLEY ST",
+  "Latest Vote Date": "2008-11-04",
+  "Residents": [
+   {
+    "Last Name": "WEISENBACH",
+    "First Name": "JENNIFER",
+    "Middle Name": "REBECCA",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "2008-11-04"
+   }
+  ],
+  "Matched Address": "926 DUDLEY ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16142,
+  "Latitude": 39.92498
+ },
+ {
+  "Street Address": "907 HOFFMAN ST",
+  "Latest Vote Date": "0000-00-00",
+  "Residents": [
+   {
+    "Last Name": "SALAME",
+    "First Name": "NICOLAS",
+    "Middle Name": "XAVIER",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "907 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16107,
+  "Latitude": 39.92533
+ },
+ {
+  "Street Address": "939 HOFFMAN ST",
+  "Latest Vote Date": "0000-00-00",
+  "Residents": [
+   {
+    "Last Name": "KANE",
+    "First Name": "COLLEEN",
+    "Middle Name": "MARY",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "939 HOFFMAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.1615,
+  "Latitude": 39.92539
+ },
+ {
+  "Street Address": "1930 S 10TH ST",
+  "Latest Vote Date": "0000-00-00",
+  "Residents": [
+   {
+    "Last Name": "BARNES",
+    "First Name": "LINDSAY",
+    "Middle Name": "ANN",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "919 MCKEAN ST",
+  "Latest Vote Date": "0000-00-00",
+  "Residents": [
+   {
+    "Last Name": "MONTGOMERY",
+    "First Name": "VICTORIA",
+    "Middle Name": "NICOLE",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   },
+   {
+    "Last Name": "KARABUT",
+    "First Name": "VICTORIA",
+    "Middle Name": "",
+    "Apartment Number": "1",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "919 MCKEAN ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Exact",
+  "Longitude": -75.16182,
+  "Latitude": 39.924603
+ },
+ {
+  "Street Address": "1928 S 9TH ST",
+  "Latest Vote Date": "0000-00-00",
+  "Residents": [
+   {
+    "Last Name": "ORTIZ NUNEZ",
+    "First Name": "MILDRED",
+    "Middle Name": "",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": null,
+  "Match Type": null,
+  "Longitude": null,
+  "Latitude": null
+ },
+ {
+  "Street Address": "1922 S 9TH ST",
+  "Latest Vote Date": "0000-00-00",
+  "Residents": [
+   {
+    "Last Name": "NGUYEN",
+    "First Name": "BE TU",
+    "Middle Name": "THI",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "1922 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16092,
+  "Latitude": 39.925083
+ },
+ {
+  "Street Address": "1937 S ALDER ST",
+  "Latest Vote Date": "0000-00-00",
+  "Residents": [
+   {
+    "Last Name": "MASCUILLI",
+    "First Name": "PHYLLIS",
+    "Middle Name": "L",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "1937 S ALDER ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.162994,
+  "Latitude": 39.92551
+ },
+ {
+  "Street Address": "1910 S WARNOCK ST",
+  "Latest Vote Date": "0000-00-00",
+  "Residents": [
+   {
+    "Last Name": "SUPER",
+    "First Name": "MARGARET",
+    "Middle Name": "ANN",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "1910 S WARNOCK ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16341,
+  "Latitude": 39.925854
+ },
+ {
+  "Street Address": "1906 S 9TH ST",
+  "Latest Vote Date": "0000-00-00",
+  "Residents": [
+   {
+    "Last Name": "BOGUSZ",
+    "First Name": "GREGORY",
+    "Middle Name": "D",
+    "Apartment Number": "",
+    "Parsed Last Vote Date": "--"
+   }
+  ],
+  "Matched Address": "1906 S 9TH ST, PHILADELPHIA, PA, 19148",
+  "Match Type": "Non_Exact",
+  "Longitude": -75.16082,
+  "Latitude": 39.925507
+ }
+]
